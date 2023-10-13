@@ -3,7 +3,10 @@ package JavaWeek6FinalProject;
 public class App {
 
 	public static void main(String[] args) {
-			
+		// TODO Auto-generated method stub
+
+	
+		
 		// instantiated a deck and 2 players 
 			Deck deck = new Deck();
 			
